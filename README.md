@@ -45,7 +45,7 @@ The Weather Journal App allows users to:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/BaselTurkman/Weather-Journal-App.git)
    ```
 
 2. Navigate to the project directory:
